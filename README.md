@@ -55,8 +55,3 @@ In this problem, the goal is to select the maximum number of non-overlapping act
 
 Greedy algorithms are efficient and easy to implement, but they are not always optimal. Their performance depends heavily on the nature of the problem and the properties like **optimal substructure** and **greedy choice property**. Understanding the time and space complexity helps evaluate when and where a greedy approach is suitable.
 
-Feel free to explore more greedy algorithms and experiment with their implementations to deepen your understanding!
-
----
-
-This format should give you a structured and detailed GitHub post explaining greedy algorithms and their complexities. Let me know if you need any more adjustments!
