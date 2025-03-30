@@ -1,5 +1,3 @@
-"# Introduction to DSA" 
-
 # Introduction to Data Structures and Algorithms (DSA)
 
 Data Structures and Algorithms (DSA) form the foundation of computer science and efficient problem-solving. Whether it's optimizing search engines, designing social media feeds, or handling large-scale applications, DSA plays a crucial role in making programs efficient and scalable. This document provides a structured approach to understanding DSA with real-world examples and insights.
@@ -100,11 +98,5 @@ Choosing the right approach depends on efficiency requirements.
 
 ---
 
-## Next Steps
-1. **Push these notes to GitHub** (Create `README.md` in `01_Introduction/`).
-2. **Solve basic problems:**
-   - Find the maximum/minimum in an array.
-   - Count occurrences of an element in an array.
-3. **Proceed to the next topic: Arrays.**
 
 
