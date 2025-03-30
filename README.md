@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA) Learning Journey
 
-Welcome to my DSA learning repository! This space documents my exploration and understanding of various data structures and algorithms, inspired by Abdul Bari's comprehensive teachings.
+Welcome to my DSA learning repository! This space documents my exploration and understanding of various data structures and algorithms.
 
 ## Table of Contents
 
